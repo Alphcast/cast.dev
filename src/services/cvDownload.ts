@@ -32,7 +32,7 @@ export function downloadCV() {
   <div class="contact">
     Lagos, Nigeria (Open to Remote Work Worldwide)<br>
     oladeporokeeb203@gmail.com | +2349011105681 (WhatsApp)<br>
-    Portfolio: # | GitHub: https://github.com/Alphcast | Fiverr: # | LinkedIn: https://www.linkedin.com/in/oladepo-rokeeb-113392302
+    Portfolio: https://cast-dev.vercel.app/ | GitHub: https://github.com/Alphcast | Fiverr: # | LinkedIn: https://www.linkedin.com/in/oladepo-rokeeb-113392302
   </div>
 
   <h2>PROFESSIONAL SUMMARY</h2>
